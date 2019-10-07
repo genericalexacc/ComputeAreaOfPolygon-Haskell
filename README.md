@@ -1,6 +1,7 @@
 # ComputeAreaOfPolygon-Haskell
 Haskell program to calculate area of polygon - Hackerrank problem
-------
+
+
 Solution to:
 [Hackerrank problem](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)
 
