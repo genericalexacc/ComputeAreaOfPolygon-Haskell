@@ -1,4 +1,3 @@
--- Enter your code here. Read input from STDIN. Print output to STDOUT
 import Control.Monad
 import Data.List
 import Data.List.Split
